@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\bin\Debug\net8.0\ФамилияInspectorLib.deps.json
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\bin\Debug\net8.0\ФамилияInspectorLib.dll
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\bin\Debug\net8.0\ФамилияInspectorLib.pdb
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ФамилияInspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ФамилияInspectorLib.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ФамилияInspectorLib.AssemblyInfo.cs
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ФамилияInspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ФамилияInspectorLib.dll
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\refint\ФамилияInspectorLib.dll
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ФамилияInspectorLib.pdb
+C:\Users\1\source\repos\ФамилияТест\ФамилияInspectorLib\obj\Debug\net8.0\ref\ФамилияInspectorLib.dll
